@@ -1,0 +1,1 @@
+export const baseUrl = 'https://hoanq.nqhoa30082002.repl.co/';
